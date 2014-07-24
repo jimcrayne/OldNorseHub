@@ -28,6 +28,7 @@ Resources:
  * [Helpful Youtube Video for Reconstructed Pronounciation](http://www.youtube.com/watch?v=JICgNRzENoQ)
  * [Old Norse Grammar - on a single page!](http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/)
  * [Old Norse I: Grammar - Viking Society Web Publications](http://www.vsnrweb-publications.org.uk/NION-1.pdf)
+ * [Yahoo Group, Study Group, Class](https://groups.yahoo.com/neo/groups/norse_course/info)
 
 
 Old Norse Vowels (Reconstructed)
