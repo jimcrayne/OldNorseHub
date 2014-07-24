@@ -81,22 +81,22 @@ Unstressed vowels:
         is a true mid-vowel, or more opened than without the 
         diacritic.
 
-a /a/  as stressed a          leysa ‘[to] release’
-
-i /̞i/  as in English city     máni ‘moon’
-
-u /ʊ/  as in English wood     eyru ‘ears’
+a | /a/ | as stressed a        | leysa ‘[to] release’
+i | /̞i/ | as in English city   | máni ‘moon’
+u | /ʊ/ | as in English wood   | eyru ‘ears’
 
 
 Dipthongs:
 
         The inverted breve underneath a vowel in IPA
-        indicates that it is not syllabic.
+        indicates that it is not syllabic. Each dipthong
+        is only one syllable.
+        
+        The second pronounciation for ey is for a later period than the first.
 
-au  /a̯u/                as in English now       lauss 'loose'  
-ei  /3̯i/                as in English bay       bein  'bone'  
-ey  /ø̯y/, /3̯y/          ON e + y                hey   'hay'  
-    (The second pronounciation is for a later period than the first.)
+au | /a̯u/              | as in English now     | lauss 'loose'  
+ei | /3̯i/              | as in English bay     | bein  'bone'  
+ey | /ø̯y/, /3̯y/        | ON e + y              | hey   'hay'  
 
 
 
