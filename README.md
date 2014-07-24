@@ -42,7 +42,7 @@ Vowel | IPA  | Description                     | Example word       |  [Vim](htt
 a     | /a/  |  the same sound, but short      | dagr ‘day’         |             
       |      |                                 |                    | 
 é     | /eː/ |  as in french été, but longer   | él ‘storm’, [:sound:tré](https://xa.yimg.com/df/norse_course/tr%C3%A9.mp3?token=M-QOMGkewgVHekaOoW4Y9dHvKqx3XYweVVBHwa9urJtd3P3TRAlLuQJvK5I0WTcS_dbRayOFbO-xyRWkbnEyfRwUJdY7XSbgBO9nIxdsZzcuVPhntwFdQLaTy44oPdOnNhDzZg&type=download) 'tree' | e'
-e     | /e/  |  as in french été               | ben ‘wound’        |      
+e     | /e/  |  as in french été               | ben ‘wound’, [:sound:ek](https://xa.yimg.com/df/norse_course/ek.mp3?token=Tj9SaE5qqCUjwD0QZ52N76kjfN68Qk7GI9YVfK839-iCGFdaZdx9BpSpAsS0IM18khDCyK0iVn61ckf-0DXLU_Y6pO_txZKafubHInjYIiiGzCJx6oJ11PTkSRREMQ&type=download) 'ek' |      
       |      |                                 |                    | 
 í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’ |            i'
 i     | /i/  |  the same sound, but short      | litr ‘colour’      |
