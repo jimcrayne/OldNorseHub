@@ -38,7 +38,8 @@ Old Norse Vowels (Reconstructed)
 
 Vowel | IPA  | Description                     | Example word       |  [Vim](http://www.vim.org) Digraph 
 ----- | ---- | ------------------------------- | ------------------ | ----------------------------------
-á     | /aː/ |  as in english father           | ár ‘year’          |            a'
+á     | /aː/ |  as in english father           | ár ‘year’  
+                                                 (:sound:ást)[http://www.love.com] 'love' |            a'
 a     | /a/  |  the same sound, but short      | dagr ‘day’         |             
       |      |                                 |                    | 
 é     | /eː/ |  as in french été, but longer   | él ‘storm’         |            e'
