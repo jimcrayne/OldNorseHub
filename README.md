@@ -84,6 +84,9 @@ u. Some uncertainty exists about how these unstressed vowels were
 pronounced, but the student will be safe enough using the following.
 
 Unstressed vowels:
+-----------------
+
+        Notes:
 
         The symbol below the IPA for i, looks like a captal T, it is the
         lowering diacritic, indicating that the sound is a true mid-vowel, or
@@ -97,6 +100,7 @@ Vowel | IPA  | Description                     | Example word
 
 
 Dipthongs:
+----------
 
         Notes:
 
