@@ -42,7 +42,6 @@ Vowel | IPA  | Description                     | Example word       |  [Vim](htt
 a     | /a/  |  the same sound, but short      | dagr ‘day’         |             
       |      |                                 |                    | 
 é     | /eː/ |  as in french été, but longer   | él ‘storm’, [:sound:tré](https://xa.yimg.com/df/norse_course/tr%C3%A9.mp3?token=M-QOMGkewgVHekaOoW4Y9dHvKqx3XYweVVBHwa9urJtd3P3TRAlLuQJvK5I0WTcS_dbRayOFbO-xyRWkbnEyfRwUJdY7XSbgBO9nIxdsZzcuVPhntwFdQLaTy44oPdOnNhDzZg&type=download) 'tree' | e'
-       |            e'
 e     | /e/  |  as in french été               | ben ‘wound’        |      
       |      |                                 |                    | 
 í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’ |            i'
