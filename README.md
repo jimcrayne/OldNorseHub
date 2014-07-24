@@ -9,7 +9,7 @@ It is also, for now, a logical place to store any new experimental software I
 create which facilitates those learning this particular variety of Old Norse.
 
 It is also, I hope the beginning of a potential hub, for students of Reconstructed Old Norse, seeking others with
-whom to communicate and so revive this language. 
+whom to communicate and so revive this language.
 
 This project is using Classical/Reconstructed Pronounciation as opposed to
 the modern Icelandic one.
@@ -23,8 +23,9 @@ back ported modern Icelandic term.
 
 
 Resources:
-	* (Helpful Youtube Video for Reconstructed Pronounciation)[http://www.youtube.com/watch?v=JICgNRzENoQ]
-	* (Old Norse Grammar - on a single page!)[http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/]
-	* (Old Norse I: Grammar - Viking Society Web Publications)[http://www.vsnrweb-publications.org.uk/NION-1.pdf]
+
+      * (Helpful Youtube Video for Reconstructed Pronounciation)[http://www.youtube.com/watch?v=JICgNRzENoQ]
+      * (Old Norse Grammar - on a single page!)[http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/]
+      * (Old Norse I: Grammar - Viking Society Web Publications)[http://www.vsnrweb-publications.org.uk/NION-1.pdf]
 
 
