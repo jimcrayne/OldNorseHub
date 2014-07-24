@@ -80,10 +80,9 @@ pronounced, but the student will be safe enough using the following.
 
 Unstressed vowels:
 
-        The symbol below the i, looks like a captal T, it
-        is the lowering diacritic, indicating that the sound
-        is a true mid-vowel, or more opened than without the 
-        diacritic.
+	The symbol below the IPA for i, looks like a captal T, it is the
+	lowering diacritic, indicating that the sound is a true mid-vowel, or
+        more opened than without the diacritic.
 
 Vowel | IPA  | Description                     | Example word       
 ----- | ---- | ------------------------------- | ------------------ 
