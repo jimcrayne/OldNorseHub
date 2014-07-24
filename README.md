@@ -22,9 +22,9 @@ example, appending a C for a word coined by this community, and an M for a
 back ported modern Icelandic term.
 
 
-Resources:
-      * [Helpful Youtube Video for Reconstructed Pronounciation](http://www.youtube.com/watch?v=JICgNRzENoQ)
-      * [Old Norse Grammar - on a single page!](http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/)
-      * [Old Norse I: Grammar - Viking Society Web Publications](http://www.vsnrweb-publications.org.uk/NION-1.pdf)
+Resources:  
+ * [Helpful Youtube Video for Reconstructed Pronounciation](http://www.youtube.com/watch?v=JICgNRzENoQ)
+ * [Old Norse Grammar - on a single page!](http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/)
+ * [Old Norse I: Grammar - Viking Society Web Publications](http://www.vsnrweb-publications.org.uk/NION-1.pdf)
 
 
