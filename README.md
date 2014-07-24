@@ -59,7 +59,7 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’        |
 œ     | /øː/ |  as in French feu, but longer   | œrr 'mad’          |            oe 
 ø     | /ø/  |  as in French feu (en:bird)     | døkkr ‘dark’       |            o/
       |      |                                 |                    | 
-ǫ     | /ɔ/  |  as in English hot              |  ǫl ‘ale’          |            o;
+ǫ     | /ɔ/  |  as in English hot,thought      |  ǫl ‘ale’          |            o;
 
 
 Notes:
