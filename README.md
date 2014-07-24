@@ -41,7 +41,8 @@ Vowel | IPA  | Description                     | Example word       |  [Vim](htt
 á     | /aː/ |  as in english father           | ár ‘year’, [:sound:ást](https://xa.yimg.com/df/norse_course/%C3%A1st.mp3?token=NF_DC1dfLJBW-WyaLoXc3i5BdW8zE_0CmZZME-XkAtxdaZsd6SopESWI4wVZcY5Xd8ywAiWPH_JP6E97YqXCpy3aHjxHb5Bh7E-vm5i2L2bXmDL22T8CbOH1avk9QCzSjrrUXw&type=download) 'love' | a'
 a     | /a/  |  the same sound, but short      | dagr ‘day’         |             
       |      |                                 |                    | 
-é     | /eː/ |  as in french été, but longer   | él ‘storm’         |            e'
+é     | /eː/ |  as in french été, but longer   | él ‘storm’, [:sound:tré](https://xa.yimg.com/df/norse_course/tr%C3%A9.mp3?token=M-QOMGkewgVHekaOoW4Y9dHvKqx3XYweVVBHwa9urJtd3P3TRAlLuQJvK5I0WTcS_dbRayOFbO-xyRWkbnEyfRwUJdY7XSbgBO9nIxdsZzcuVPhntwFdQLaTy44oPdOnNhDzZg&type=download) 'tree' | e'
+       |            e'
 e     | /e/  |  as in french été               | ben ‘wound’        |      
       |      |                                 |                    | 
 í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’ |            i'
