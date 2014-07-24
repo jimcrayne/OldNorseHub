@@ -62,7 +62,7 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’        |
 ǫ     | /ɔ/  |  as in English hot,thought      |  ǫl ‘ale’          |            o;
 
 
-Notes:
+Notes:   
         There is no short counterpart of æ or long counterpart of ǫ. Both
         sounds existed at one time, but in the kind of Old Norse on which the
         normalised spelling is based short æ had coalesced with e and ǭ with
