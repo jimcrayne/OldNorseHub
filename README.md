@@ -38,11 +38,11 @@ Old Norse Vowels (Reconstructed)
 
 Vowel | IPA  | Description                     | Example word :sound:          |  [Vim](http://www.vim.org) Digraph 
 ----- | ---- | ------------------------------- |:----------------------------- |:----------------------------------:
-á     | /aː/ |  as in english father           | ár ‘year’, [ást][mp3s] 'love' |            a'
+á     | /aː/ |  as in english father           | ár ‘year’, [ást][ást] 'love'  |            a'
 a     | /a/  |  the same sound, but short      | dagr ‘day’                    |             
       |      |                                 |                               | 
-é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][mp3s] 'tree'|            e'
-e     | /e/  |  as in french été               | ben ‘wound’, [ek][mp3s] 'I'   |      
+é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree' |            e'
+e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'     |      
       |      |                                 |                               | 
 í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’            |            i'
 i     | /i/  |  the same sound, but short      | litr ‘colour’                 |
@@ -65,6 +65,9 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’                
 ǫ     | /ɔ/  |  as in English hot,thought      |  ǫl ‘ale’                     |            o;
 
 [mp3s]: https://groups.yahoo.com/neo/groups/norse_course/files/OldNorseHub/Sounds/words/
+[ást]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ást.mp3
+[tré]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/tré.mp3
+[ek]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ek.mp3
 
 There is no short counterpart of æ or long counterpart of ǫ. Both
 sounds existed at one time, but in the kind of Old Norse on which the
