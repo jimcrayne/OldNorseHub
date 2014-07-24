@@ -38,11 +38,11 @@ Old Norse Vowels (Reconstructed)
 
 Vowel | IPA  | Description                     | Example word :sound:          |  [Vim](http://www.vim.org) Digraph 
 ----- | ---- | ------------------------------- |:----------------------------- |:----------------------------------:
-á     | /aː/ |  as in english father           | ár ‘year’, [ást][ást] 'love'  |            a'
+á     | /aː/ |  as in english father           | ár ‘year’, [ást][mp3s] 'love' |            a'
 a     | /a/  |  the same sound, but short      | dagr ‘day’                    |             
       |      |                                 |                               | 
-é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree' |            e'
-e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'     |      
+é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][mp3s] 'tree'|            e'
+e     | /e/  |  as in french été               | ben ‘wound’, [ek][mp3s] 'I'   |      
       |      |                                 |                               | 
 í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’            |            i'
 i     | /i/  |  the same sound, but short      | litr ‘colour’                 |
@@ -64,9 +64,7 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’                
       |      |                                 |                               | 
 ǫ     | /ɔ/  |  as in English hot,thought      |  ǫl ‘ale’                     |            o;
 
-[ást]: https://xa.yimg.com/df/norse_course/%C3%A1st.mp3?token=NF_DC1dfLJBW-WyaLoXc3i5BdW8zE_0CmZZME-XkAtxdaZsd6SopESWI4wVZcY5Xd8ywAiWPH_JP6E97YqXCpy3aHjxHb5Bh7E-vm5i2L2bXmDL22T8CbOH1avk9QCzSjrrUXw&type=download 
-[tré]: https://xa.yimg.com/df/norse_course/tr%C3%A9.mp3?token=M-QOMGkewgVHekaOoW4Y9dHvKqx3XYweVVBHwa9urJtd3P3TRAlLuQJvK5I0WTcS_dbRayOFbO-xyRWkbnEyfRwUJdY7XSbgBO9nIxdsZzcuVPhntwFdQLaTy44oPdOnNhDzZg&type=download 
-[ek]: https://xa.yimg.com/df/norse_course/ek.mp3?token=Tj9SaE5qqCUjwD0QZ52N76kjfN68Qk7GI9YVfK839-iCGFdaZdx9BpSpAsS0IM18khDCyK0iVn61ckf-0DXLU_Y6pO_txZKafubHInjYIiiGzCJx6oJ11PTkSRREMQ&type=download) 
+[mp3s]: https://groups.yahoo.com/neo/groups/norse_course/files/OldNorseHub/Sounds/words/
 
 There is no short counterpart of æ or long counterpart of ǫ. Both
 sounds existed at one time, but in the kind of Old Norse on which the
