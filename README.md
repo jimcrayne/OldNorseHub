@@ -98,11 +98,19 @@ Vowel | IPA  | Description                     | Example word
 
 Dipthongs:
 
+        Notes:
+
         The inverted breve underneath a vowel in IPA
         indicates that it is not syllabic. Each dipthong
         is only one syllable.
         
         The second pronounciation for ey is for a later period than the first.
+
+        I am having an issue where the diacritic shows up on the first letter
+        on the web, but on the second one in my source. I intend it to be on
+        the second letter.
+
+        
 
 Vowel | IPA               | Description           | Example word       
 ----- | ----------------- | ----------------------| ------------------ 
