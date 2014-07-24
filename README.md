@@ -54,7 +54,7 @@ u     | /u/  |  as in french bouche            | sumar ‘summer’     |
 y     | /y/  |  as in french rue (en:few)      | yfir ‘over’        |      
       |      |                                 |                    | 
 æ     | /æː/ |  as in English pat, but longer  | sær ‘sea’          |            ae 
-æ(alt)| /ɛː/ |  as in English bed, but longer  | sær 'sea'          |            ae
+      | /ɛː/ |  as in English bed, but longer  | sær 'sea'          |            ae
       |      |                                 |                    | 
 œ     | /øː/ |  as in French feu, but longer   | œrr 'mad’          |            oe 
 ø     | /ø/  |  as in French feu (en:bird)     | døkkr ‘dark’       |            o/
