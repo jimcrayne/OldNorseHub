@@ -81,9 +81,11 @@ Unstressed vowels:
         is a true mid-vowel, or more opened than without the 
         diacritic.
 
-a | /a/ | as stressed a        | leysa ‘[to] release’
-i | /̞i/ | as in English city   | máni ‘moon’
-u | /ʊ/ | as in English wood   | eyru ‘ears’
+Vowel | IPA  | Description                     | Example word       
+----- | ---- | ------------------------------- | ------------------ 
+    a | /a/  | as stressed a                   | leysa ‘[to] release’
+    i | /̞i/  | as in English city              | máni ‘moon’
+    u | /ʊ/  | as in English wood              | eyru ‘ears’
 
 
 Dipthongs:
@@ -94,9 +96,11 @@ Dipthongs:
         
         The second pronounciation for ey is for a later period than the first.
 
-au | /a̯u/              | as in English now     | lauss 'loose'  
-ei | /3̯i/              | as in English bay     | bein  'bone'  
-ey | /ø̯y/, /3̯y/        | ON e + y              | hey   'hay'  
+Vowel | IPA               | Description           | Example word       
+----- | ----------------- | ----------------------| ------------------ 
+au    | /a̯u/              | as in English now     | lauss 'loose'  
+ei    | /3̯i/              | as in English bay     | bein  'bone'  
+ey    | /ø̯y/, /3̯y/        | ON e + y              | hey   'hay'  
 
 
 
