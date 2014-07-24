@@ -16,12 +16,15 @@ create which facilitates those learning this particular variety of Old Norse.
 This project is using Classical/Reconstructed Pronounciation as opposed to
 the modern Icelandic one.
 
-Eventually, we may even find a way to extend the language, perhaps marking
-newly coined terms with an unused symbol, so that we can use them with
+In my experience with language acquisition, I have found it can be helpful to
+have to have a live chatroom. To that effect, I suggest #OldNorseHub on
+Freenode.
+
+Since, I want, to some extent, to revive the language, I propose perhaps
+marking newly coined terms with an unused symbol, so that we can use them with
 eachother and still recognize that they are not authentic Old Norse. Perhaps we
 can steal vocabulary from modern Icelandic, and mark such 'stolen' words.  For
-example, appending a C for a word coined by this community, and an M for a
-back ported modern Icelandic term.
+example, appending 'I' to the end of back ported modern Icelandic terms.
 
 
 Resources:  
