@@ -17,8 +17,7 @@ This project is using Classical/Reconstructed Pronounciation as opposed to
 the modern Icelandic one.
 
 In my experience with language acquisition, I have found it can be helpful to
-have to have a live chatroom. To that effect, I suggest #OldNorseHub on
-Freenode.
+have a live chatroom. To that effect, I suggest #OldNorseHub on Freenode.
 
 Since, I want, to some extent, to revive the language, I propose perhaps
 marking newly coined terms with an unused symbol, so that we can use them with
