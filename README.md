@@ -64,9 +64,9 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’                
       |      |                                 |                               | 
 ǫ     | /ɔ/  |  as in English hot,thought      |  ǫl ‘ale’                     |            o;
 
-[ást]: https://xa.yimg.com/df/norse_course/%C3%A1st.mp3?token=NF_DC1dfLJBW-WyaLoXc3i5BdW8zE_0CmZZME-XkAtxdaZsd6SopESWI4wVZcY5Xd8ywAiWPH_JP6E97YqXCpy3aHjxHb5Bh7E-vm5i2L2bXmDL22T8CbOH1avk9QCzSjrrUXw&type=download "ást 'love'"
-[tré]: https://xa.yimg.com/df/norse_course/tr%C3%A9.mp3?token=M-QOMGkewgVHekaOoW4Y9dHvKqx3XYweVVBHwa9urJtd3P3TRAlLuQJvK5I0WTcS_dbRayOFbO-xyRWkbnEyfRwUJdY7XSbgBO9nIxdsZzcuVPhntwFdQLaTy44oPdOnNhDzZg&type=download "tré 'tree'"
-[ek]: https://xa.yimg.com/df/norse_course/ek.mp3?token=Tj9SaE5qqCUjwD0QZ52N76kjfN68Qk7GI9YVfK839-iCGFdaZdx9BpSpAsS0IM18khDCyK0iVn61ckf-0DXLU_Y6pO_txZKafubHInjYIiiGzCJx6oJ11PTkSRREMQ&type=download) "ek 'I'"
+[ást]: https://xa.yimg.com/df/norse_course/%C3%A1st.mp3?token=NF_DC1dfLJBW-WyaLoXc3i5BdW8zE_0CmZZME-XkAtxdaZsd6SopESWI4wVZcY5Xd8ywAiWPH_JP6E97YqXCpy3aHjxHb5Bh7E-vm5i2L2bXmDL22T8CbOH1avk9QCzSjrrUXw&type=download 
+[tré]: https://xa.yimg.com/df/norse_course/tr%C3%A9.mp3?token=M-QOMGkewgVHekaOoW4Y9dHvKqx3XYweVVBHwa9urJtd3P3TRAlLuQJvK5I0WTcS_dbRayOFbO-xyRWkbnEyfRwUJdY7XSbgBO9nIxdsZzcuVPhntwFdQLaTy44oPdOnNhDzZg&type=download 
+[ek]: https://xa.yimg.com/df/norse_course/ek.mp3?token=Tj9SaE5qqCUjwD0QZ52N76kjfN68Qk7GI9YVfK839-iCGFdaZdx9BpSpAsS0IM18khDCyK0iVn61ckf-0DXLU_Y6pO_txZKafubHInjYIiiGzCJx6oJ11PTkSRREMQ&type=download) 
 
 There is no short counterpart of æ or long counterpart of ǫ. Both
 sounds existed at one time, but in the kind of Old Norse on which the
