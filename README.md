@@ -62,19 +62,17 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’        |
 ǫ     | /ɔ/  |  as in English hot,thought      |  ǫl ‘ale’          |            o;
 
 
-Notes:   
-        There is no short counterpart of æ or long counterpart of ǫ. Both
-        sounds existed at one time, but in the kind of Old Norse on which the
-        normalised spelling is based short æ had coalesced with e and ǭ with
-        á. The use of œ to denote the long equivalent of ø is an arbitrary
-        convention, and in some works ǿ is found.
+There is no short counterpart of æ or long counterpart of ǫ. Both
+sounds existed at one time, but in the kind of Old Norse on which the
+normalised spelling is based short æ had coalesced with e and ǭ with
+á. The use of œ to denote the long equivalent of ø is an arbitrary
+convention, and in some works ǿ is found.
 
-
-        Most of these sixteen distinctive vowels occur exclusively in stressed
-        syllables. In unstressed syllables there is no distinction of length and
-        for the most part a basic three-way contrast is found between a, i and
-        u. Some uncertainty exists about how these unstressed vowels were
-        pronounced, but the student will be safe enough using the following.
+Most of these sixteen distinctive vowels occur exclusively in stressed
+syllables. In unstressed syllables there is no distinction of length and
+for the most part a basic three-way contrast is found between a, i and
+u. Some uncertainty exists about how these unstressed vowels were
+pronounced, but the student will be safe enough using the following.
 
 Unstressed vowels:
 
