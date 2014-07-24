@@ -30,8 +30,8 @@ Resources:
  * [Old Norse I: Grammar - Viking Society Web Publications](http://www.vsnrweb-publications.org.uk/NION-1.pdf)
 
 
-Living Old Norse Vowels
-=======================
+Old Norse Vowels (Reconstructed)
+===============================
 
 Vowel | IPA  | Description                     | Example word       |  [Vim](http://www.vim.org) Digraph 
 ----- | ---- | ------------------------------- | ------------------ | ----------------------------------
@@ -53,17 +53,14 @@ u     | /u/  |  as in french bouche            | sumar ‘summer’     |
 ý     | /yː/ |  as in french rue, but longer   | kýr ‘cow’          |            y'
 y     | /y/  |  as in french rue (en:few)      | yfir ‘over’        |      
       |      |                                 |                    | 
-æ     | /æː/ |  as in English pat, but longer  |  sær ‘sea’         |            ae 
-æ(alt)| /ɛː/ |  as in English bed, but longer  |  sær 'sea'         |            ae
+æ     | /æː/ |  as in English pat, but longer  | sær ‘sea’          |            ae 
+æ(alt)| /ɛː/ |  as in English bed, but longer  | sær 'sea'          |            ae
+      |      |                                 |                    | 
+œ     | /øː/ |  as in French feu, but longer   | œrr 'mad’          |            oe 
+ø     | /ø/  |  as in French feu (en:bird)     | døkkr ‘dark’       |            o/
+      |      |                                 |                    | 
+ǫ     | /ɔ/  |  as in English hot              |  ǫl ‘ale’          |            o;
 
-        
-        
-(vim digraph oe) (digraph o /)  
-œ /øː/  as in French feu, but longer    œrr ‘mad’
-ø /ø/   as in French feu (en:bird)      døkkr ‘dark’
-
-(vim digraph o;)  
-ǫ /ɔ/ as in English hot         ǫl ‘ale’
 
 Notes:
         There is no short counterpart of æ or long counterpart of ǫ. Both
