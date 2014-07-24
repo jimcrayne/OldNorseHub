@@ -36,13 +36,13 @@ Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
-Vowel | IPA  | Description                     | Example word [:sound:]        |  [Vim](http://www.vim.org) Digraph 
+Vowel | IPA  | Description                     | Example word :sound:          |  [Vim](http://www.vim.org) Digraph 
 ----- | ---- | ------------------------------- |:----------------------------- |:----------------------------------:
 á     | /aː/ |  as in english father           | ár ‘year’, [ást][ást] 'love'  |            a'
 a     | /a/  |  the same sound, but short      | dagr ‘day’                    |             
       |      |                                 |                               | 
 é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree' |            e'
-e     | /e/  |  as in french été               | ben ‘wound’, [ek]['ek'] 'I'   |      
+e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'     |      
       |      |                                 |                               | 
 í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’            |            i'
 i     | /i/  |  the same sound, but short      | litr ‘colour’                 |
