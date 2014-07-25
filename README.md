@@ -51,7 +51,7 @@ i     | /i/  |  the same sound, but short      | litr ‘colour’              
 o     | /o/  |  as in french eau               | hof /hov/ ‘temple’                  |   
       |      |                                 |                                     | 
 ú     | /uː/ |  as in french bouche, but longer| hús ‘house’                         |            u' 
-u     | /u/  |  as in french bouche            | sumar ‘summer’,[kunna][k1]          |       
+u     | /u/  |  as in french bouche            | sumar ‘summer’,[kunna][k1] 'know'   |       
       |      |                                 |                                     | 
 ý     | /yː/ |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'    |            y'
 y     | /y/  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'|      
