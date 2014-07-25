@@ -48,7 +48,7 @@ e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'
 i     | /i/  |  the same sound, but short      | litr ‘colour’                       |
       |      |                                 |                                     | 
 ó     | /oː/ |  as in french eau, but longer   | sól ‘sun’                           |            o'
-o     | /o/  |  as in french eau               | hof ‘temple’                        |   
+o     | /o/  |  as in french eau               | hof /hov/ ‘temple’                  |   
       |      |                                 |                                     | 
 ú     | /uː/ |  as in french bouche, but longer| hús ‘house’                         |            u' 
 u     | /u/  |  as in french bouche            | sumar ‘summer’                      |       
