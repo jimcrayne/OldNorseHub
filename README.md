@@ -51,10 +51,10 @@ i     | /i/  |  the same sound, but short      | litr ‘colour’              
 o     | /o/  |  as in french eau               | hof /hov/ ‘temple’                  |   
       |      |                                 |                                     | 
 ú     | /uː/ |  as in french bouche, but longer| hús ‘house’                         |            u' 
-u     | /u/  |  as in french bouche            | sumar ‘summer’                      |       
+u     | /u/  |  as in french bouche            | sumar ‘summer’,[kunna][k1]          |       
       |      |                                 |                                     | 
-ý     | /yː/ |  as in french rue, but longer   | kýr ‘cow’                           |            y'
-y     | /y/  |  as in french rue (en:few)      | yfir ‘over’                         |      
+ý     | /yː/ |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'    |            y'
+y     | /y/  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'|      
       |      |                                 |                                     | 
 æ     | /æː/ |  as in English pat, but longer  | sær ‘sea’                           |            ae 
       | /ɛː/ |  as in English bed, but longer  | sær 'sea'                           |            ae
@@ -70,6 +70,9 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’                
 [ek]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ek.mp3
 [ǫl]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ǫl.mp3
 [hǫll]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/hǫll.mp3
+[k1]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kunna.mp3
+[kyn]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kyn.mp3
+[spýta]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/spýta.mp3
 
 There is no short counterpart of æ or long counterpart of ǫ. Both sounds
 existed at one time, but in the kind of Old Norse on which the normalised
