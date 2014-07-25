@@ -10,14 +10,21 @@ I searched for an existing community like this, but I didn't find any that were
 exactly this sort of project, with any centralized organization or hub, that
 facilitates collaboration the way github does. So I decided just to create one.
 
-It is also, for now, a logical place to store any new experimental software I
-create which facilitates those learning this particular variety of Old Norse.
-
 This project is using Classical/Reconstructed Pronounciation as opposed to
-the modern Icelandic one.
+the modern Icelandic one. The aim of this project is to make it as easy as
+possible for people to emerse themselves in Old Norse and rapidly aquire fluidy
+in both the spoken and written language.
 
-In my experience with language acquisition, I have found it can be helpful to
-have a live chatroom. To that effect, I suggest #OldNorseHub on Freenode.
+Currently, I have taken some sounds from a youtube video to provide examples.
+Another potentially fun source for audio from the History Channel's Vikings
+series, which if I recall, has some scenes with reconstructed Old Norse in
+them.  It would be very nice if we can extract those scenes and also provide
+subtitles in the standard orthography, to help newcomers shift their Brain's to
+'Old Norse'-mode.
+
+In my experience with some parts of language acquisition, I have found it can
+be helpful to have a live chatroom. To that effect, I invite you to join me
+in  #OldNorseHub on the Freenode [IRC](http://xchat.org/) Network.
 
 Since, I want, to some extent, to revive the language, I propose perhaps
 marking newly coined terms with an unused symbol, so that we can use them with
