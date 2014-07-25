@@ -26,8 +26,8 @@ can steal vocabulary from modern Icelandic, and mark such 'stolen' words.  For
 example, appending 'I' to the end of back ported modern Icelandic terms.
 
 
-Resources:  
- * [Helpful Youtube Video for Reconstructed Pronounciation](http://www.youtube.com/watch?v=JICgNRzENoQ)
+Helpful Resources:  
+ * [Youtube Video for Reconstructed Pronounciation](http://www.youtube.com/watch?v=JICgNRzENoQ)
  * [Old Norse Grammar - on a single page!](http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/)
  * [Old Norse I: Grammar - Viking Society Web Publications](http://www.vsnrweb-publications.org.uk/NION-1.pdf)
  * [Yahoo Group, Study Group, Class](https://groups.yahoo.com/neo/groups/norse_course/info)
@@ -48,7 +48,7 @@ e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'
 i     | /i/  |  the same sound, but short      | litr ‘colour’                       |
       |      |                                 |                                     | 
 ó     | /oː/ |  as in french eau, but longer   | sól ‘sun’                           |            o'
-o     | /o/  |  as in french eau               | hof ‘temple’                        |   
+o     | /o/  |  as in french eau               | hof /hov/ ‘temple’                  |   
       |      |                                 |                                     | 
 ú     | /uː/ |  as in french bouche, but longer| hús ‘house’                         |            u' 
 u     | /u/  |  as in french bouche            | sumar ‘summer’                      |       
@@ -71,11 +71,11 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’                
 [ǫl]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ǫl.mp3
 [hǫll]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/hǫll.mp3
 
-There is no short counterpart of æ or long counterpart of ǫ. Both
-sounds existed at one time, but in the kind of Old Norse on which the
-normalised spelling is based short æ had coalesced with e and ǭ with
-á. The use of œ to denote the long equivalent of ø is an arbitrary
-convention, and in some works ǿ is found.
+There is no short counterpart of æ or long counterpart of ǫ. Both sounds
+existed at one time, but in the kind of Old Norse on which the normalised
+spelling is based short /æ/ had coalesced with e and long /ɔː/ with á. The use
+of œ to denote the long equivalent of ø is an arbitrary convention, and in some
+works ǿ is found. Note that Old English Orthography, uses "oe" for this sound.
 
 Most of these sixteen distinctive vowels occur exclusively in stressed
 syllables. In unstressed syllables there is no distinction of length and
