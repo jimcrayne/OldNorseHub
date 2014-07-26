@@ -59,7 +59,7 @@ RULE: p_vLong - vowels marked with the accent mark are elongated versions of the
 Vowel | [IPA][1]  | Description                | Example word                            | X-Sampa | XSS | [Vim][vim] Digraph 
 ----- | ---- | ------------------------------- | --------------------------------------- | --- | ------- | ------------------
 á     | /aː/ |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: |  _Ha    | a'        
-a     | /a/  |  the same sound, but short      | dagr ‘day’                              |  a  | a       |           
+a     | /a/  |  the same sound, but short      | dagr ‘day’, [þat][þat] 'it,that'        |  a  | a       |           
       |      |                                 |                                         |     |         |           
 é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e: | _He     | e'        
 e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e  | e       |           
@@ -105,6 +105,7 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'fa
 [nær]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nær.mp3
 [n]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nɛːr.mp3
 [spýta]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/spýta.mp3
+[þat]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/þat.mp3
 
 There is no short counterpart of æ /æː/ or long counterpart of ǫ /ɔ/. Both sounds
 existed at one time, but in the kind of Old Norse on which the normalised
