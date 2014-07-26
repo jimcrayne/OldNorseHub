@@ -43,6 +43,13 @@ Helpful Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
+        Note:
+
+        X-sampa-sim is a contrivance. It is useful for situations where it is
+        convenient to use the  IBus x-sampa-ipa input method, even though you are
+        typing letters from the Old  Norse Alphabet as opposed to IPA characters.
+
+
 Vowel | [IPA][1]  | Description                     | Example word                            | X-Sampa / X-Sampa-sim | [Vim][vim] Digraph 
 ----- | ----      | ------------------------------- |:-----------------------------           | ----------------------|------
 á     | /aː/      |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: /  _Ha            | a'
@@ -71,8 +78,6 @@ y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn
       |           |                                 |                                         |                       |
 ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  / _co             | o;
 
-	Note: X-sampa-sim is useful for situations where it is convenient to use the IBus x-sampa-ipa input method, 
-	even though you are typing letters from the Old Norse Alphabet as opposed to IPA characters.
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [vim]: http://www.vim.org
