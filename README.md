@@ -71,7 +71,7 @@ u     | /u/       |  as in french bouche            | sumar ‘summer’, [kunna
 y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  / y               |
       |           |                                 |                                         |                       |
 æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: / {               | ae
-      | /ɛː/      |  as in English bed, but longer  | alternatively: [/mɛːla/][m],[/nɛːr/][n] |  E: / {               |
+      | /ɛː/      |  as in English bed, but longer  | alternatively: [/mɛːla/][m], [/nɛːr/][n]|  E: / {               |
       |           |                                 |                                         |                       |
 œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: / 9               | oe
 ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  / 9               | o/
