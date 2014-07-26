@@ -43,38 +43,33 @@ Helpful Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
-Vowel | [IPA][1]  | Description                     | Example word                            | X-Sampa1[^footnote]| [Vim][vim] Digraph 
------ | ----      | ------------------------------- |:-----------------------------           | --------| -------------------
-á     | /aː/      |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a:     | a'
-a     | /a/       |  the same sound, but short      | dagr ‘day’                              |  a      |
-      |           |                                 |                                         |         | 
-é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e:     | e'
-e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e      |
-      |           |                                 |                                         |         |
-í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i:     | i'
-i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i      |
-      |           |                                 |                                         |         |
-ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o:     | o'
-o     | /o/       |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o      |
-      |           |                                 |                                         |         |
-ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                             |  u:     | u'
-u     | /u/       |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u      |
-      |           |                                 |                                         |         |
-ý     | /yː/      |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y:     | y'
-y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y      |
-      |           |                                 |                                         |         |
-æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                               |  {:     | ae
-      | /ɛː/      |  as in English bed, but longer  | sær 'sea'                               |  E:     |
-      |           |                                 |                                         |         |
-œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2:     | oe
-ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2      | o/
-      |           |                                 |                                         |         |
-ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O      | o;           
-
-[^footnote] X-Sampa is intended for entering IPA. However, if you are using an X-Sampa
-            input method to enter the norse orthography, you can simulate accent markings
-            using the high tone mark: _Ha -> á, _He -> é, etc...  
-            X-Sampa for the œ character is simply: 9
+Vowel | [IPA][1]  | Description                     | Example word                            | X-Sampa | X-Sampa-sim | [Vim][vim] Digraph 
+----- | ----      | ------------------------------- |:-----------------------------           | --------| ------------|------
+á     | /aː/      |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a:     | _Ha         | a'            
+a     | /a/       |  the same sound, but short      | dagr ‘day’                              |  a      |             |
+      |           |                                 |                                         |         |             | 
+é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e:     | _He         | e'
+e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e      |             |
+      |           |                                 |                                         |         |             |
+í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i:     | _Hi         | i'
+i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i      |             |
+      |           |                                 |                                         |         |             |
+ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o:     | _Ho         | o'
+o     | /o/       |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o      |             |
+      |           |                                 |                                         |         |             |
+ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                             |  u:     | _Hu         | u'
+u     | /u/       |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u      |             |
+      |           |                                 |                                         |         |             |
+ý     | /yː/      |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y:     | _Hy         | y'
+y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y      |             |
+      |           |                                 |                                         |         |             |
+æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                               |  {:     | {           | ae
+      | /ɛː/      |  as in English bed, but longer  | sær 'sea'                               |  E:     |             |
+      |           |                                 |                                         |         |             |
+œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2:     | 9           | oe
+ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2      |             | o/
+      |           |                                 |                                         |         |             |
+ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O      | _co         | o;           
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [vim]: http://www.vim.org
