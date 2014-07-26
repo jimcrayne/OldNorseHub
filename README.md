@@ -51,8 +51,8 @@ a     | /a/       |  the same sound, but short      | dagr ‘day’            
 é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'       |            e'
 e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'           |
       |           |                                 |                                     |
-í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’                  |            i'
-i     | /i/       |  the same sound, but short      | litr ‘colour’                       |
+í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'   |            i'
+i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]          |
       |           |                                 |                                     |
 ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’                           |            o'
 o     | /o/       |  as in french eau               | hof /hov/ ‘temple’                  |
@@ -73,7 +73,8 @@ y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [vim]: http://www.vim.org
-[mp3s]: https://groups.yahoo.com/neo/groups/norse_course/files/OldNorseHub/Sounds/words/
+[ís]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ís.mp3
+[minn]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/minn.mp3
 [ást]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ást.mp3
 [tré]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/tré.mp3
 [ek]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ek.mp3
