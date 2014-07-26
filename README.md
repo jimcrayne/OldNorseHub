@@ -1,13 +1,13 @@
-Living Old Norse!
-================
+Old (West) Norse, Reconstructed
+===============================
 
-I have begun the project of teaching myself Reconstructed Old Norse. Of course,
-learning a language is a lot easier if there is a community of speakers. But
-Old Norse is a dead language! So if I want a community of speakers to connect
-with, it is naturally going to be people interested in bringing back the dead.
+This project aims to collect many resources, particularly useful for those whom
+are teaching themselves or others the language of Old Norse as spoken over a 
+thousand years ago. If you are an actor playing a viking in a movie, or if you 
+are re-enacting a viking event, then this material should be useful to you.
 
-I searched for an existing community like this, but I didn't find any that were
-exactly this sort of project, with any centralized organization or hub, that
+I searched for a project like this, but I didn't find any that were exactly
+this sort of project, with any centralized organization or hub, that
 facilitates collaboration the way github does. So I decided just to create one.
 
 This project is using Classical/Reconstructed Pronounciation as opposed to
