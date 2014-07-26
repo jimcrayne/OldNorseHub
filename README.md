@@ -47,7 +47,7 @@ Helpful Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
-RULE: p_vLong - vowels marked with the accent mark are elongated versions of the unmarked vowels
+RULE: p_vLong - vowels marked with the accent mark are elongated versions of the unmarked vowels  
 
         Note:
 
@@ -121,8 +121,8 @@ pronounced, but the student will be safe enough using the following.
 Unstressed vowels:
 -----------------
 
-RULE: p_vUnstressed_i - Unstressed i is opened, as in the 'y' of city
-RULE: p_vUnstressed_u - Unstressed u, as in the 'oo' of wood or good
+RULE: p_vUnstressed_i - Unstressed i is opened, as in the 'y' of city  
+RULE: p_vUnstressed_u - Unstressed u, as in the 'oo' of wood or good  
 
         Notes:
 
@@ -143,9 +143,9 @@ Vowel | IPA | X-Sampa | Description                                | Example wor
 Dipthongs:
 ----------
 
-RULE: p_dip_ei - ei, the 'ay' of bay
-RULE: p_dip_ey - ey, ON e + y, /ø̯y/ or /ɛ̯y/
-RULE: p_dip_au - au, as the 'ow' in English: now
+RULE: p_dip_ei - ei, the 'ay' of bay  
+RULE: p_dip_ey - ey, ON e + y, /ø̯y/ or /ɛ̯y/  
+RULE: p_dip_au - au, as the 'ow' in English: now  
 
         Notes:
 
