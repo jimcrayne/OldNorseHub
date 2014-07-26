@@ -136,8 +136,8 @@ Dipthongs:
 Vowel | IPA               | X-Sampa | Description           | Example word       
 ----- | ----------------- | ------- | ----------------------| ------------------  
 au    | /a̯u/              | }_^u    | as in English now     | lauss 'loose'  
-ei    | /3̯i/              | 3_^i    | as in English bay     | bein  'bone'  
-ey    | /ø̯y/, /3̯y/        | 2_^y    | ON e + y              | hey   'hay'  
+ei    | /ɛ̯i/              | E _^i   | as in English bay     | bein  'bone'  
+ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay'  
 
 
 
