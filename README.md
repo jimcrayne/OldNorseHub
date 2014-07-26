@@ -43,9 +43,9 @@ Helpful Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
-Vowel | [IPA][1]  | Description                     | Example word :sound:                    | X-Sampa | [Vim][vim] Digraph 
------ | ----      | ------------------------------- |:-----------------------------           | ------- | -------------------
-á     | /aː/      |  as in english father           | ár ‘year’, [ást][ást] 'love'            |  a:     | a'
+Vowel | [IPA][1]  | Description                     | Example word                            | X-Sampa | [Vim][vim] Digraph 
+----- | ----      | ------------------------------- |:-----------------------------           | --------| -------------------
+á     | /aː/      |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a:[^1] | a'
 a     | /a/       |  the same sound, but short      | dagr ‘day’                              |  a      |
       |           |                                 |                                         |         | 
 é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e:     | e'
@@ -66,10 +66,14 @@ y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn
 æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                               |  {:     | ae
       | /ɛː/      |  as in English bed, but longer  | sær 'sea'                               |  E:     |
       |           |                                 |                                         |         |
-œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’                               |  2:     | oe
-ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’                            |  2      | o/
+œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2:[^2] | oe
+ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2      | o/
       |           |                                 |                                         |         |
 ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O      | o;           
+
+[^1] If you are using an X-Sampa input method to enter the norse orthography,
+you can create accents using the high tone mark: _Ha -> á, _He -> é, etc...
+[^2] X-Sampa for the œ character is simply: 9
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [vim]: http://www.vim.org
@@ -129,11 +133,11 @@ Dipthongs:
         on the web, but on the second one in my source. I intend it to be on
         the second letter.
 
-        
+       
 
 Vowel | IPA               | X-Sampa | Description           | Example word       
 ----- | ----------------- | ------- | ----------------------| ------------------  
-au    | /a̯u/              | a_^u    | as in English now     | lauss 'loose'  
+au    | /a̯u/              | }_^u    | as in English now     | lauss 'loose'  
 ei    | /3̯i/              | 3_^i    | as in English bay     | bein  'bone'  
 ey    | /ø̯y/, /3̯y/        | 2_^y    | ON e + y              | hey   'hay'  
 
