@@ -156,4 +156,4 @@ ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay',
 
 [nei]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nei.mp3
 [heim]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/heim.mp3
-[Freyja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/Freyja.mp3
+[Freyja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/ey_Freyja.mp3
