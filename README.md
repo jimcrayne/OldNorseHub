@@ -54,8 +54,8 @@ e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek
 í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'   |            i'
 i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]          |
       |           |                                 |                                     |
-ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’                           |            o'
-o     | /o/       |  as in french eau               | hof /hov/ ‘temple’                  |
+ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’,[dró][dró]                |            o'
+o     | /o/       |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa]     |
       |           |                                 |                                     |
 ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                         |            u' 
 u     | /u/       |  as in french bouche            | sumar ‘summer’,[kunna][k1] 'know'   |
@@ -78,6 +78,8 @@ y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn
 [ást]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ást.mp3
 [tré]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/tré.mp3
 [ek]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ek.mp3
+[dró]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/dró.mp3
+[sofa]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/sofa.mp3
 [ǫl]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ǫl.mp3
 [hǫll]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/hǫll.mp3
 [k1]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kunna.mp3
