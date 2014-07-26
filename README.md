@@ -43,34 +43,36 @@ Helpful Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
-Vowel | IPA  | Description                     | Example word :sound:                |  [Vim](http://www.vim.org) Digraph  
------ | ---- | ------------------------------- |:-----------------------------       |:----------------------------------:
-á     | /aː/ |  as in english father           | ár ‘year’, [ást][ást] 'love'        |            a'
-a     | /a/  |  the same sound, but short      | dagr ‘day’                          |             
-      |      |                                 |                                     | 
-é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'       |            e'
-e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'           |      
-      |      |                                 |                                     | 
-í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’                  |            i'
-i     | /i/  |  the same sound, but short      | litr ‘colour’                       |
-      |      |                                 |                                     | 
-ó     | /oː/ |  as in french eau, but longer   | sól ‘sun’                           |            o'
-o     | /o/  |  as in french eau               | hof /hov/ ‘temple’                  |   
-      |      |                                 |                                     | 
-ú     | /uː/ |  as in french bouche, but longer| hús ‘house’                         |            u' 
-u     | /u/  |  as in french bouche            | sumar ‘summer’,[kunna][k1] 'know'   |       
-      |      |                                 |                                     | 
-ý     | /yː/ |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'    |            y'
-y     | /y/  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'|      
-      |      |                                 |                                     | 
-æ     | /æː/ |  as in English pat, but longer  | sær ‘sea’                           |            ae 
-      | /ɛː/ |  as in English bed, but longer  | sær 'sea'                           |              
-      |      |                                 |                                     | 
-œ     | /øː/ |  as in French feu, but longer   | œrr 'mad’                           |            oe 
-ø     | /ø/  |  as in French feu (en:bird)     | døkkr ‘dark’                        |            o/
-      |      |                                 |                                     | 
-ǫ     | /ɔ/  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’|            o;
+Vowel | [IPA][1]  | Description                     | Example word :sound:                |  [Vim][vim] Digraph
+----- | ----      | ------------------------------- |:-----------------------------       |:-------------------:
+á     | /aː/      |  as in english father           | ár ‘year’, [ást][ást] 'love'        |            a'
+a     | /a/       |  the same sound, but short      | dagr ‘day’                          |
+      |           |                                 |                                     |
+é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'       |            e'
+e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'           |
+      |           |                                 |                                     |
+í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’                  |            i'
+i     | /i/       |  the same sound, but short      | litr ‘colour’                       |
+      |           |                                 |                                     |
+ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’                           |            o'
+o     | /o/       |  as in french eau               | hof /hov/ ‘temple’                  |
+      |           |                                 |                                     |
+ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                         |            u' 
+u     | /u/       |  as in french bouche            | sumar ‘summer’,[kunna][k1] 'know'   |
+      |           |                                 |                                     |
+ý     | /yː/      |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'    |            y'
+y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'|
+      |           |                                 |                                     |
+æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                           |            ae 
+      | /ɛː/      |  as in English bed, but longer  | sær 'sea'                           |
+      |           |                                 |                                     |
+œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’                           |            oe 
+ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’                        |            o/
+      |           |                                 |                                     |
+ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’|            o;
 
+[1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
+[vim]: http://www.vim.org
 [mp3s]: https://groups.yahoo.com/neo/groups/norse_course/files/OldNorseHub/Sounds/words/
 [ást]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ást.mp3
 [tré]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/tré.mp3
@@ -81,7 +83,7 @@ y     | /y/  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'fa
 [kyn]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kyn.mp3
 [spýta]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/spýta.mp3
 
-There is no short counterpart of æ or long counterpart of ǫ. Both sounds
+There is no short counterpart of æ /æː/ or long counterpart of ǫ /ɔ/. Both sounds
 existed at one time, but in the kind of Old Norse on which the normalised
 spelling is based short /æ/ had coalesced with e and long /ɔː/ with á. The use
 of œ to denote the long equivalent of ø is an arbitrary convention, and in some
