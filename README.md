@@ -121,11 +121,11 @@ Unstressed vowels:
         lowering diacritic, indicating that the sound is a true mid-vowel, or
         more opened than without the diacritic.
 
-Vowel | IPA | X-Sampa | Description                            | Example word 
------ | ----| ------- | -------------------------------------- | ------------------ 
-    a | /a/ | a       | same as stressed a                     | leysa ‘(to) release’
-    i | /̞i/ | _oi     | [:sound:][city] as in English cit**y** | máni ‘moon’
-    u | /ʊ/ | U       | [:sound:][good] as in English w**oo**d | eyru ‘ears’
+Vowel | IPA | X-Sampa | Description                        | Example word 
+----- | ----| ------- | ---------------------------------- | ------------------ 
+    a | /a/ | a       | same as stressed a                 | leysa ‘(to) release’
+    i | /̞i/ | _oi     | [:sound:][city] as in English city | máni ‘moon’
+    u | /ʊ/ | U       | [:sound:][good] as in English wood | eyru ‘ears’
 
 [city]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/i_as_in_city.mp3
 [good]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/u_as_in_good.mp3
