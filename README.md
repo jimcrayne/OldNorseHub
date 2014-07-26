@@ -43,33 +43,33 @@ Helpful Resources:
 Old Norse Vowels (Reconstructed)
 ===============================
 
-Vowel | [IPA][1]  | Description                     | Example word :sound:                |  [Vim][vim] Digraph
------ | ----      | ------------------------------- |:-----------------------------       |:-------------------:
-á     | /aː/      |  as in english father           | ár ‘year’, [ást][ást] 'love'        |            a'
-a     | /a/       |  the same sound, but short      | dagr ‘day’                          |
-      |           |                                 |                                     |
-é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'       |            e'
-e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'           |
-      |           |                                 |                                     |
-í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'   |            i'
-i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]          |
-      |           |                                 |                                     |
-ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’,[dró][dró]                |            o'
-o     | /o/       |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa]     |
-      |           |                                 |                                     |
-ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                         |            u' 
-u     | /u/       |  as in french bouche            | sumar ‘summer’,[kunna][k1] 'know'   |
-      |           |                                 |                                     |
-ý     | /yː/      |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'    |            y'
-y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'|
-      |           |                                 |                                     |
-æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                           |            ae 
-      | /ɛː/      |  as in English bed, but longer  | sær 'sea'                           |
-      |           |                                 |                                     |
-œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’                           |            oe 
-ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’                        |            o/
-      |           |                                 |                                     |
-ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’|            o;
+Vowel | [IPA][1]  | Description                     | Example word :sound:                    | X-Sampa | [Vim][vim] Digraph 
+----- | ----      | ------------------------------- |:-----------------------------           | ------- | -------------------
+á     | /aː/      |  as in english father           | ár ‘year’, [ást][ást] 'love'            |  a:     | a'
+a     | /a/       |  the same sound, but short      | dagr ‘day’                              |  a      |
+      |           |                                 |                                         |         | 
+é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e:     | e'
+e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e      |
+      |           |                                 |                                         |         |
+í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i:     | i'
+i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i      |
+      |           |                                 |                                         |         |
+ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o:     | o'
+o     | /o/       |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o      |
+      |           |                                 |                                         |         |
+ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                             |  u:     | u'
+u     | /u/       |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u      |
+      |           |                                 |                                         |         |
+ý     | /yː/      |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y:     | y'
+y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y      |
+      |           |                                 |                                         |         |
+æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                               |  {:     | ae
+      | /ɛː/      |  as in English bed, but longer  | sær 'sea'                               |  E:     |
+      |           |                                 |                                         |         |
+œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’                               |  2:     | oe
+ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’                            |  2      | o/
+      |           |                                 |                                         |         |
+ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O      | o;           
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [vim]: http://www.vim.org
@@ -107,11 +107,11 @@ Unstressed vowels:
         lowering diacritic, indicating that the sound is a true mid-vowel, or
         more opened than without the diacritic.
 
-Vowel | IPA  | Description                     | Example word       
------ | ---- | ------------------------------- | ------------------ 
-    a | /a/  | as stressed a                   | leysa ‘[to] release’
-    i | /̞i/  | as in English city              | máni ‘moon’
-    u | /ʊ/  | as in English wood              | eyru ‘ears’
+Vowel | IPA | X-Sampa | Description                     | Example word       
+----- | ----| ------- | ------------------------------- | ------------------ 
+    a | /a/ | a       | as stressed a                   | leysa ‘[to] release’
+    i | /̞i/ | _oi     | as in English city              | máni ‘moon’
+    u | /ʊ/ | U       | as in English wood              | eyru ‘ears’
 
 
 Dipthongs:
@@ -131,11 +131,11 @@ Dipthongs:
 
         
 
-Vowel | IPA               | Description           | Example word       
------ | ----------------- | ----------------------| ------------------ 
-au    | /a̯u/              | as in English now     | lauss 'loose'  
-ei    | /3̯i/              | as in English bay     | bein  'bone'  
-ey    | /ø̯y/, /3̯y/        | ON e + y              | hey   'hay'  
+Vowel | IPA               | X-Sampa | Description           | Example word       
+----- | ----------------- | ------- | ----------------------| ------------------  
+au    | /a̯u/              | a_^u    | as in English now     | lauss 'loose'  
+ei    | /3̯i/              | 3_^i    | as in English bay     | bein  'bone'  
+ey    | /ø̯y/, /3̯y/        | 2_^y    | ON e + y              | hey   'hay'  
 
 
 
