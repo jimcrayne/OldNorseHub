@@ -33,7 +33,7 @@ can steal vocabulary from modern Icelandic, and mark such 'stolen' words.  For
 example, appending 'I' to the end of back ported modern Icelandic terms.
 
 
-Helpful Resources:  
+Helpful Resources:
  * [Youtube Video for Reconstructed Pronounciation](http://www.youtube.com/watch?v=JICgNRzENoQ)
  * [Old Norse Grammar - on a single page!](http://oldnorsenews.org/2008/08/old-norse-grammar-on-a-single-page/)
  * [Old Norse I: Grammar - Viking Society Web Publications](http://www.vsnrweb-publications.org.uk/NION-1.pdf)
@@ -45,31 +45,34 @@ Old Norse Vowels (Reconstructed)
 
 Vowel | [IPA][1]  | Description                     | Example word                            | X-Sampa / X-Sampa-sim | [Vim][vim] Digraph 
 ----- | ----      | ------------------------------- |:-----------------------------           | ----------------------|------
-á     | /aː/      |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: /  _Ha            | a'            
+á     | /aː/      |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: /  _Ha            | a'
 a     | /a/       |  the same sound, but short      | dagr ‘day’                              |  a  / a               |
       |           |                                 |                                         |                       | 
 é     | /eː/      |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e: / _He             | e'
 e     | /e/       |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e  / e               |
       |           |                                 |                                         |                       |
-í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i: / _Hi              | i'
+í     | /iː/      |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i: / _Hi             | i'
 i     | /i/       |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i  / i               |
       |           |                                 |                                         |                       |
 ó     | /oː/      |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o: / _Ho             | o'
 o     | /o/       |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o  / o               |
       |           |                                 |                                         |                       |
-ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                             |  u: / _Hu              | u'
+ú     | /uː/      |  as in french bouche, but longer| hús ‘house’                             |  u: / _Hu             | u'
 u     | /u/       |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u  / u               |
       |           |                                 |                                         |                       |
 ý     | /yː/      |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y: / _Hy             | y'
 y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  / y               |
       |           |                                 |                                         |                       |
-æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’                               |  {: / {               | ae
-      | /ɛː/      |  as in English bed, but longer  | sær 'sea'                               |  E: / {               |
+æ     | /æː/      |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: / {               | ae
+      | /ɛː/      |  as in English bed, but longer  | alternatively: [/mɛːla/][m],[/nɛːr/][n] |  E: / {               |
       |           |                                 |                                         |                       |
 œ     | /øː/      |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: / 9               | oe
 ø     | /ø/       |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  / 9               | o/
       |           |                                 |                                         |                       |
-ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  / _co             | o;           
+ǫ     | /ɔ/       |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  / _co             | o;
+
+	Note: X-sampa-sim is useful for situations where it is convenient to use the IBus x-sampa-ipa input method, 
+	even though you are typing letters from the Old Norse Alphabet as opposed to IPA characters.
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [vim]: http://www.vim.org
@@ -86,6 +89,10 @@ y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn
 [hǫll]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/hǫll.mp3
 [k1]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kunna.mp3
 [kyn]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kyn.mp3
+[mæla]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/mæla.mp3
+[m]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/mɛːla.mp3
+[nær]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nær.mp3
+[n]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nɛːr.mp3
 [spýta]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/spýta.mp3
 
 There is no short counterpart of æ /æː/ or long counterpart of ǫ /ɔ/. Both sounds
@@ -109,11 +116,11 @@ Unstressed vowels:
         lowering diacritic, indicating that the sound is a true mid-vowel, or
         more opened than without the diacritic.
 
-Vowel | IPA | X-Sampa | Description                      | Example word       
------ | ----| ------- | -------------------------------- | ------------------ 
-    a | /a/ | a       | same as stressed a               | leysa ‘[to] release’
-    i | /̞i/ | _oi     | [:sound:as in English city][city]| máni ‘moon’
-    u | /ʊ/ | U       | [:sound:as in English wood][wood]| eyru ‘ears’
+Vowel | IPA | X-Sampa | Description                        | Example word 
+----- | ----| ------- | ---------------------------------  | ------------------ 
+    a | /a/ | a       | same as stressed a                 | leysa ‘(to) release’
+    i | /̞i/ | _oi     | [:sound:][city]as in English city  | máni ‘moon’
+    u | /ʊ/ | U       | [:sound:][good]as in English wood  | eyru ‘ears’
 
 [city]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/i_as_in_city.mp3
 [wood]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/u_as_in_good.mp3
@@ -136,11 +143,11 @@ Dipthongs:
 
        
 
-Vowel | IPA               | X-Sampa | Description           | Example word       
------ | ----------------- | ------- | ----------------------| ------------------  
-au    | /a̯u/              | }_^u    | as in English now     | lauss 'loose'  
-ei    | /ɛ̯i/              | E _^i   | as in English bay     | bein  'bone'  
-ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay'  
+Vowel | IPA               | X-Sampa | Description           | Example word
+----- | ----------------- | ------- | ----------------------| ------------------
+au    | /a̯u/              | }_^u    | as in English now     | lauss 'loose'
+ei    | /ɛ̯i/              | E _^i   | as in English bay     | bein  'bone'
+ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay'
 
 
 
