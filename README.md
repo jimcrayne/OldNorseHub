@@ -80,6 +80,8 @@ y     | /y/       |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn
 [ek]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ek.mp3
 [dró]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/dró.mp3
 [sofa]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/sofa.mp3
+[grœn]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/grœn.mp3
+[øx]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/øx.mp3
 [ǫl]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/ǫl.mp3
 [hǫll]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/hǫll.mp3
 [k1]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/words/kunna.mp3
