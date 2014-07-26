@@ -165,7 +165,7 @@ RULE: p_dip_au - au, as the 'ow' in English: now
 Vowel | IPA               | X-Sampa | Description           | Example word
 ----- | ----------------- | ------- | ----------------------| ------------------
 au    | /a̯u/              | }_^u    | as in English now     | lauss 'loose'
-ei    | /ɛ̯i/              | E _^i   | as in English bay     | bein  'bone', [nei][nei], [heim][heim]
+ei    | /ɛ̯i/              | E _^i   | as in English bay     | bein  'bone', [nei][nei] 'no', [heim][heim] 'home'
 ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay', [Freyja][Freyja]
 
 [nei]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nei.mp3
