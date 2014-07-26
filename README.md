@@ -10,10 +10,14 @@ I searched for a project like this, but I didn't find any that were exactly
 this sort of project, with any centralized organization or hub, that
 facilitates collaboration the way github does. So I decided just to create one.
 
-This project is using Classical/Reconstructed Pronounciation as opposed to
-the modern Icelandic one. The aim of this project is to make it as easy as
-possible for people to emerse themselves in Old Norse and rapidly aquire fluidy
-in both the spoken and written language.
+This project is using Classical/Reconstructed Pronounciation as opposed to the
+modern Icelandic one. The aim of this project is to make it as easy as possible
+for people to emerse themselves in Old Norse and rapidly aquire fluidy in both
+the spoken and written language. Additionally, we aim to create standardized
+tags for grammar and pronounciation rules which will be useful for software
+which accepts Old Norse sentences as input, and performs analysis, to identify
+examples of rules which are illustrated and point out that illustration to
+students.
 
 Currently, I have taken some sounds from a youtube video to provide examples.
 Another potentially fun source for audio from the History Channel's Vikings
@@ -42,6 +46,8 @@ Helpful Resources:
 
 Old Norse Vowels (Reconstructed)
 ===============================
+
+RULE: p_vLong - vowels marked with the accent mark are elongated versions of the unmarked vowels
 
         Note:
 
@@ -115,6 +121,9 @@ pronounced, but the student will be safe enough using the following.
 Unstressed vowels:
 -----------------
 
+RULE: p_vUnstressed_i - Unstressed i is opened, as in the 'y' of city
+RULE: p_vUnstressed_u - Unstressed u, as in the 'oo' of wood or good
+
         Notes:
 
         The symbol below the IPA for i, looks like a captal T, it is the
@@ -133,6 +142,10 @@ Vowel | IPA | X-Sampa | Description                                | Example wor
 
 Dipthongs:
 ----------
+
+RULE: p_dip_ei - ei, the 'ay' of bay
+RULE: p_dip_ey - ey, ON e + y, /ø̯y/ or /ɛ̯y/
+RULE: p_dip_au - au, as the 'ow' in English: now
 
         Notes:
 
