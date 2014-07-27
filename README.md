@@ -175,12 +175,12 @@ ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay',
 Old Norse Consonants (Reconstructed)
 ===================================
 
-RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant  
+RULE: p_cFisV - f is /v/ if folowed by a vowel or a voiced consonant  
 
 Consonant | Context             | IPA | X-Sampa | English Sound | Examples                                  | XSS | Vim Digraph
 --|-----------------------------|-----|-----|-------------------|-------------------------------------------|-----|------------
-f | at beginning of word, or    | [f] | f   |                   |                                           |     |
-  | before a voiceless consonant| [f] | f   |                   |                                           |     |
-  | otherwise.                  | [v] | v   |                   |                                           |     |
+f | at beginning of word, or    | /f/ | f   |                   |                                           |     |
+  | before a voiceless consonant| /f/ | f   |                   |                                           |     |
+  | otherwise.                  | /v/ | v   |                   |                                           |     |
   |                             |     |     |                   |                                           |     |            
 
