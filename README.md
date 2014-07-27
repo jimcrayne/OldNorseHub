@@ -207,4 +207,4 @@ g   | beginning of word, or                | [g] | g   |                   | [ga
 [saga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [dag]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [sagt]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
-[sagja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[segja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
