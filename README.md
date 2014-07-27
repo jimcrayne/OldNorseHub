@@ -58,31 +58,31 @@ RULE: p_vLong - vowels marked with the accent mark are elongated versions of the
 
 Vowel | [IPA][1]  | Description                | Example word                            | X-Sampa | XSS | [Vim][vim] Digraph 
 ----- | ---- | ------------------------------- | --------------------------------------- | --- | ------- | ------------------
-á     | /aː/ |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: |  _Ha    | a'        
-a     | /a/  |  the same sound, but short      | dagr ‘day’, [þat][þat] 'it,that'        |  a  | a       |           
+á     | [aː] |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: |  _Ha    | a'        
+a     | [a]  |  the same sound, but short      | dagr ‘day’, [þat][þat] 'it,that'        |  a  | a       |           
       |      |                                 |                                         |     |         |           
-é     | /eː/ |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e: | _He     | e'        
-e     | /e/  |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e  | e       |           
+é     | [eː] |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e: | _He     | e'        
+e     | [e]  |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e  | e       |           
       |      |                                 |                                         |     |         |           
-í     | /iː/ |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i: | _Hi     | i'        
-i     | /i/  |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i  | i       |           
+í     | [iː] |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i: | _Hi     | i'        
+i     | [i]  |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i  | i       |           
       |      |                                 |                                         |     |         |           
-ó     | /oː/ |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o: | _Ho     | o'        
-o     | /o/  |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o  | o       |           
+ó     | [oː] |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o: | _Ho     | o'        
+o     | [o]  |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o  | o       |           
       |      |                                 |                                         |     |         |           
-ú     | /uː/ |  as in french bouche, but longer| hús ‘house’                             |  u: | _Hu     | u'        
-u     | /u/  |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u  | u       |           
+ú     | [uː] |  as in french bouche, but longer| hús ‘house’                             |  u: | _Hu     | u'        
+u     | [u]  |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u  | u       |           
       |      |                                 |                                         |     |         |           
-ý     | /yː/ |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y: | _Hy     | y'        
-y     | /y/  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
+ý     | [yː] |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y: | _Hy     | y'        
+y     | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
       |      |                                 |                                         |     |         |           
-æ     | /æː/ |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
-      | /ɛː/ |  as in English bed, but longer  | alternatively: [/mɛːla/][m], [/nɛːr/][n]|  E: | {       |           
+æ     | [æː] |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
+      | [ɛː] |  as in English bed, but longer  | alternatively: [/mɛːla/][m], [/nɛːr/][n]|  E: | {       |           
       |      |                                 |                                         |     |         |           
-œ     | /øː/ |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: | 9       | oe        
-ø     | /ø/  |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  | 9       | o/        
+œ     | [øː] |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: | 9       | oe        
+ø     | [ø]  |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  | 9       | o/        
       |      |                                 |                                         |     |         |           
-ǫ     | /ɔ/  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  | _co     | o;        
+ǫ     | [ɔ]  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  | _co     | o;        
 
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
@@ -133,9 +133,9 @@ RULE: p_vUnstressed_u - Unstressed u, as in the 'oo' of wood or good
 
 Vowel | IPA | X-Sampa | Description                                | Example word 
 ----- | ----| ------- | ------------------------------------------ | ------------------ 
-    a | /a/ | a       | same as stressed a                         | leysa ‘(to) release’
+    a | [a] | a       | same as stressed a                         | leysa ‘(to) release’
     i | /̞i/ | _oi     | [:sound:as the y in English 'city'][city]  | máni ‘moon’
-    u | /ʊ/ | U       | [:sound:as in English 'wood'][good]        | eyru ‘ears’
+    u | [ʊ] | U       | [:sound:as in English 'wood'][good]        | eyru ‘ears’
 
 [city]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/i_as_in_city.mp3
 [good]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/u_as_in_good.mp3
