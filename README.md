@@ -131,11 +131,11 @@ RULE: p_vUnstressed_u - Unstressed u, as in the 'oo' of wood or good
         lowering diacritic, indicating that the sound is a true mid-vowel, or
         more opened than without the diacritic.
 
-Vowel | IPA | X-Sampa | Description                                | Example word 
------ | ----| ------- | ------------------------------------------ | ------------------ 
-    a | [a] | a       | same as stressed a                         | leysa ‘(to) release’
-    i | /̞i/ | _oi     | [:sound:as the y in English 'city'][city]  | máni ‘moon’
-    u | [ʊ] | U       | [:sound:as in English 'wood'][good]        | eyru ‘ears’
+Vowel | IPA | X-Sampa | Description                                | Example word  
+----- | ----| ------- | ------------------------------------------ | ------------------  
+    a | [a] | a       | same as stressed a                         | leysa ‘(to) release’  
+    i | /̞i/ | _oi     | [:sound:as the y in English 'city'][city]  | máni ‘moon’  
+    u | [ʊ] | U       | [:sound:as in English 'wood'][good]        | eyru ‘ears’  
 
 [city]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/i_as_in_city.mp3
 [good]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/u_as_in_good.mp3
@@ -162,11 +162,11 @@ RULE: p_vDip_au - au, as the 'ow' in English: now
 
        
 
-Vowel | IPA               | X-Sampa | Description           | Example words
------ | ----------------- | ------- | ----------------------| ------------------
-au    | [a̯u]              | }_^u    | as in English now     | lauss 'loose'
-ei    | [ɛ̯i]              | E _^i   | as in English bay     | bein  'bone', [nei][nei] 'no', [heim][heim] 'home'
-ey    | [ø̯y], [ɛ̯y]        | 2_^y    | ON e + y              | hey   'hay', [Freyja][Freyja]
+Vowel | IPA               | X-Sampa | Description           | Example words  
+----- | ----------------- | ------- | ----------------------| ------------------  
+au    | [a̯u]              | }_^u    | as in English now     | lauss 'loose'  
+ei    | [ɛ̯i]              | E _^i   | as in English bay     | bein  'bone', [nei][nei] 'no', [heim][heim] 'home'  
+ey    | [ø̯y], [ɛ̯y]        | 2_^y    | ON e + y              | hey   'hay', [Freyja][Freyja]  
 
 [nei]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nei.mp3
 [heim]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/heim.mp3
@@ -177,24 +177,24 @@ Old Norse Consonants (Reconstructed)
 
 RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant, unless it is the first letter of the word.
 
-consonant | context                        | ipa | x-sampa | english sound | examples
---- | ---------------------------------    | --- | --- | ----------------- | -----------------------------------------
-f   | at beginning of word, or             | [f] | f   |                   | [falla][falla] 'fall'
-    | before a voiceless consonant         | [f] |     |                   | [haft][haft] 'have'
-    |                                      |     |     |                   |
-    | otherwise.                           | [v] | v   |                   | [hafa][hafa] 'have', [hef][hef] 'have'
-    |                                      |     |     |                   |
-g   | beginning of word, or                | [g] | g   |                   | [ganga][ganga] 'walk'
-    | ng, not before s or t, or            | [g] |     |                   |
-    | gg, not before s or t                | [g] |     |                   | [Frigga][Frigga] 'Frigga'
-    |                                      |     |     |                   |
-    | gg or ng, before s or t              | [k] |     |                   | [eggs][eggs]
-    |                                      |     |     |                   |
-    | inside a word, not before s,t,j,or i | [ɣ] | G   |                   | [saga][saga] 'story', [dag][dag] 'day'
-    |                                      |     |     |                   |
-    | inside a word, before s or t         | [x] | x   |                   | [dags][dags], [sagt][sagt] 
-    |                                      |     |     |                   |
-    | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja] 
+consonant | context                        | ipa | x-sampa | english sound | examples  
+--- | ---------------------------------    | --- | --- | ----------------- | -----------------------------------------  
+f   | at beginning of word, or             | [f] | f   |                   | [falla][falla] 'fall'  
+    | before a voiceless consonant         | [f] |     |                   | [haft][haft] 'have'  
+    |                                      |     |     |                   |  
+    | otherwise.                           | [v] | v   |                   | [hafa][hafa] 'have', [hef][hef] 'have'  
+    |                                      |     |     |                   |  
+g   | beginning of word, or                | [g] | g   |                   | [ganga][ganga] 'walk'  
+    | ng, not before s or t, or            | [g] |     |                   |  
+    | gg, not before s or t                | [g] |     |                   | [Frigga][Frigga] 'Frigga'  
+    |                                      |     |     |                   |  
+    | gg or ng, before s or t              | [k] |     |                   | [eggs][eggs]  
+    |                                      |     |     |                   |  
+    | inside a word, not before s,t,j,or i | [ɣ] | G   |                   | [saga][saga] 'story', [dag][dag] 'day'  
+    |                                      |     |     |                   |  
+    | inside a word, before s or t         | [x] | x   |                   | [dags][dags], [sagt][sagt]  
+    |                                      |     |     |                   |  
+    | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja]  
 
 
 [falla]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
