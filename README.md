@@ -175,15 +175,26 @@ ey    | [ø̯y], [ɛ̯y]        | 2_^y    | ON e + y              | hey   'hay',
 Old Norse Consonants (Reconstructed)
 ===================================
 
-RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant  
+RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant, unless it is the first letter of the word.
 
-Consonant | Context               | IPA | X-Sampa | English Sound | Examples                                  | XSS | Vim Digraph
---- | --------------------------- | --- | --- | ----------------- | ----------------------------------------- | --- | -----------
-f   | at beginning of word, or    | [f] | f   |                   |                                           |     |
-    | before a voiceless consonant| [f] | f   |                   |                                           |     |
-    | otherwise.                  | [v] | v   |                   |                                           |     |
-    |                             |     |     |                   |                                           |     |            
-
+consonant | context                        | ipa | x-sampa | english sound | examples
+--- | ---------------------------------    | --- | --- | ----------------- | -----------------------------------------
+f   | at beginning of word, or             | [f] | f   |                   | [falla][falla] 'fall'
+    | before a voiceless consonant         | [f] |     |                   | [haft][haft] 'have'
+    |                                      |     |     |                   |
+    | otherwise.                           | [v] | v   |                   | [hafa][hafa] 'have', [hef][hef] 'have'
+    |                                      |     |     |                   |
+g   | beginning of word, or                | [g] | g   |                   | [ganga][ganga] 'walk'
+    | ng, not before s or t, or            | [g] |     |                   |
+    | gg, not before s or t                | [g] |     |                   | [Frigga][Frigga] 'Frigga'
+    |                                      |     |     |                   |
+    | gg or ng, before s or t              | [k] |     |                   | [eggs][eggs]
+    |                                      |     |     |                   |
+    | inside a word, not before s,t,j,or i | [ɣ] | G   |                   | [saga][saga] 'story', [dag][dag] 'day'
+    |                                      |     |     |                   |
+    | inside a word, before s or t         | [x] | x   |                   | [dags][dags], [sagt][sagt] 
+    |                                      |     |     |                   |
+    | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja] 
 
 
 
