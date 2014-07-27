@@ -175,7 +175,7 @@ ey    | [ø̯y], [ɛ̯y]        | 2_^y    | ON e + y              | hey   'hay',
 Old Norse Consonants (Reconstructed)
 ===================================
 
-RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant, unless it is the first letter of the word.
+RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant, unless it is the first letter of the word.  
 
 consonant | context                        | ipa | x-sampa | english sound | examples  
 --- | ---------------------------------    | --- | --- | ----------------- | -----------------------------------------  
