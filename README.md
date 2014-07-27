@@ -197,4 +197,14 @@ g   | beginning of word, or                | [g] | g   |                   | [ga
     | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja] 
 
 
-
+[falla]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[haft]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[hafa]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[hef]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[ganga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[Frigga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[eggs]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[saga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[dag]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[sagt]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[sagja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
