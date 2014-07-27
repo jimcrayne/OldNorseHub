@@ -164,9 +164,9 @@ RULE: p_vDip_au - au, as the 'ow' in English: now
 
 Vowel | IPA               | X-Sampa | Description           | Example words
 ----- | ----------------- | ------- | ----------------------| ------------------
-au    | /a̯u/              | }_^u    | as in English now     | lauss 'loose'
-ei    | /ɛ̯i/              | E _^i   | as in English bay     | bein  'bone', [nei][nei] 'no', [heim][heim] 'home'
-ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay', [Freyja][Freyja]
+au    | [a̯u]              | }_^u    | as in English now     | lauss 'loose'
+ei    | [ɛ̯i]              | E _^i   | as in English bay     | bein  'bone', [nei][nei] 'no', [heim][heim] 'home'
+ey    | [ø̯y], [ɛ̯y]        | 2_^y    | ON e + y              | hey   'hay', [Freyja][Freyja]
 
 [nei]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/nei.mp3
 [heim]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/heim.mp3
@@ -175,7 +175,7 @@ ey    | /ø̯y/, /ɛ̯y/        | 2_^y    | ON e + y              | hey   'hay',
 Old Norse Consonants (Reconstructed)
 ===================================
 
-RULE: p_cFisV - f is /v/ if folowed by a vowel or a voiced consonant  
+RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant  
 
 Consonant | Context               | IPA | X-Sampa | English Sound | Examples                                  | XSS | Vim Digraph
 --- | --------------------------- | --- | --- | ----------------- | ----------------------------------------- | --- | -----------
