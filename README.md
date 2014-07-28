@@ -196,6 +196,7 @@ g ᚴ | gg or ng, before s or t              | [k] |     |                   | [
     |                                      |     |     |                   |  
     | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja]  
 
+ ... Under Construction ...
 
 [falla]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [haft]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
