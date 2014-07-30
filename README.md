@@ -176,28 +176,34 @@ Old Norse Consonants (Reconstructed)
 ===================================
 
 RULE: p_cFisV - f is [v] if folowed by a vowel or a voiced consonant, unless it is the first letter of the word.  
+RULE: p_cGGorNGbeforeSorT - g becomes [k] when preceded by n or g and followed by s or t  
+RULE: p_cGinsideWord - g becomes [ɣ] when inside a word, unless followed by s,t,j, or i  
+RULE: p_cGinsideWordST - g becomes [x] inside a word before s or t  
+RULE: p_cGinsideWordJI - g becomes [ʝ] inside a word before j or i  
 
-consonant | context                        | ipa | x-sampa | english sound | examples  
---- | ---------------------------------    | --- | --- | ----------------- | -----------------------------------------  
-f ᚠ | at beginning of word, or             | [f] | f   |                   | [falla][falla] 'fall'  
-    | before a voiceless consonant         | [f] |     |                   | [haft][haft] 'have'  
-    |                                      |     |     |                   |  
-    | otherwise. (ᚡ)                       | [v] | v   |                   | [hafa][hafa] 'have', [hef][hef] 'have'  
-    |                                      |     |     |                   |  
-g ᚵ | beginning of word, or                | [g] | g   |                   | [ganga][ganga] 'walk'  
-    | ng, not before s or t, or            | [g] |     |                   |  
-    | gg, not before s or t                | [g] |     |                   | [Frigga][Frigga] 'Frigga'  
-    |                                      |     |     |                   |  
-g ᚴ | gg or ng, before s or t              | [k] |     |                   | [eggs][eggs]  
-    |                                      |     |     |                   |  
-    | inside a word, not before s,t,j,or i | [ɣ] | G   |                   | [saga][saga] 'story', [dag][dag] 'day'  
-    |                                      |     |     |                   |  
-    | inside a word, before s or t         | [x] | x   |                   | [dags][dags], [sagt][sagt]  
-    |                                      |     |     |                   |  
-    | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja]  
+consonant | context                        | ipa  | x-sampa | english sound     | examples  
+--- | ---------------------------------    | ---      | --- | ----------------- | -----------------------------------------  
+f ᚠ | at beginning of word, or             | [f]      | f   |                   | [falla][falla] 'fall'  
+    | before a voiceless consonant         | [f]      |     |                   | [haft][haft] 'have'  
+    |                                      |          |     |                   |  
+    | otherwise. (ᚡ)                       | [v]      | v   |                   | [hafa][hafa] 'have', [hef][hef] 'have'  
+    |                                      |          |     |                   |  
+g ᚵ | beginning of word, or                | [g]      | g   |                   | [ganga][ganga] 'walk'  
+    | ng, not before s or t, or            | [g]      |     |                   |  
+    | gg, not before s or t                | [g]      |     |                   | [Frigga][Frigga] 'Frigga'  
+    |                                      |          |     |                   |  
+g ᚴ | gg or ng, before s or t              | [k]      |     |                   | [eggs][eggs]  
+    |                                      |          |     |                   |  
+    | inside a word, not before s,t,j,or i | [[ɣ]](ɣ) | G   |                   | [saga][saga] 'story', [dag][dag] 'day'      
+    |                                      |          |     |                   |  
+    | inside a word, before s or t         | [x]      | x   |                   | [dags][dags], [sagt][sagt]  
+    |                                      |          |     |                   |  
+    | inside a word, before j or i         | [[ʝ]](ʝ) | j\  |                   | [segja][segja]  
 
  ... Under Construction ...
 
+[ɣ]: http://en.wikipedia.org/wiki/Voiced_velar_fricative
+[ʝ]: http://en.wikipedia.org/wiki/Voiced_palatal_fricative
 [falla]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [haft]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [hafa]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
@@ -205,8 +211,8 @@ g ᚴ | gg or ng, before s or t              | [k] |     |                   | [
 [ganga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [Frigga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [eggs]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
-[saga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
-[dag]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
-[dags]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
-[sagt]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
-[segja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
+[saga]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/saga.mp3
+[dag]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/dag.mp3
+[dags]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/dags.mp3
+[sagt]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/sagt.mp3
+[segja]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/segja.mp3
