@@ -194,16 +194,15 @@ g ᚵ | beginning of word, or                | [g]         | g   |              
     |                                      |             |     |                   |  
 g ᚴ | gg or ng, before s or t              | [k]         |     |                   | [eggs][eggs]  
     |                                      |             |     |                   |  
-    | inside a word, not before s,t,j,or i | [\[ɣ\]](ɣwik) | G   |                   | [saga][saga] 'story', [dag][dag] 'day'      
-    |                                      |             |     |                   |  
-    | inside a word, before s or t         | [x]         | x   |                   | [dags][dags], [sagt][sagt]  
-    |                                      |             |     |                   |  
-    | inside a word, before j or i         | [\[ʝ\]](ʝwik) | j\  |                   | [segja][segja]  
+    | inside a word, not before s,t,j,or i | [ɣ] | G   |                   | [saga][saga] 'story', [dag][dag] 'day'         |                                      |     |     |                   |  
+    | inside a word, before s or t         | [x] | x   |                   | [dags][dags], [sagt][sagt]  
+    |                                      |     |     |                   |  
+    | inside a word, before j or i         | [ʝ] | j\  |                   | [segja][segja]  
 
  ... Under Construction ...
 
-[ɣwik]: http://en.wikipedia.org/wiki/Voiced_velar_fricative
-[ʝwik]: http://en.wikipedia.org/wiki/Voiced_palatal_fricative
+[ɣ]: http://en.wikipedia.org/wiki/Voiced_velar_fricative
+[ʝ]: http://en.wikipedia.org/wiki/Voiced_palatal_fricative
 [falla]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [haft]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
 [hafa]: http://secure.jerkface.net/~jim/OldNorseHub/sounds/words/
