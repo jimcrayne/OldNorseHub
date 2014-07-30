@@ -194,11 +194,11 @@ g ᚵ | beginning of word, or                | [g]         | g   |              
     |                                      |             |     |                   |  
 g ᚴ | gg or ng, before s or t              | [k]         |     |                   | [eggs][eggs]  
     |                                      |             |     |                   |  
-    | inside a word, not before s,t,j,or i | [[ɣ]](ɣwik) | G   |                   | [saga][saga] 'story', [dag][dag] 'day'      
+    | inside a word, not before s,t,j,or i | [\[ɣ\]](ɣwik) | G   |                   | [saga][saga] 'story', [dag][dag] 'day'      
     |                                      |             |     |                   |  
     | inside a word, before s or t         | [x]         | x   |                   | [dags][dags], [sagt][sagt]  
     |                                      |             |     |                   |  
-    | inside a word, before j or i         | [[ʝ]](ʝwik) | j\  |                   | [segja][segja]  
+    | inside a word, before j or i         | [\[ʝ\]](ʝwik) | j\  |                   | [segja][segja]  
 
  ... Under Construction ...
 
