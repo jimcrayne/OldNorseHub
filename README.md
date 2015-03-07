@@ -221,73 +221,72 @@ g ᚴ | gg or ng, before s or t              | [k] |     | [eggs][eggs]
 consonant | English sound                   | Context
 --- | ------------------------------------- | -------------------
 b   | as in English 'Buy'
-
+    |                                       |
 bb  | as above, but longer
-
+    |                                       |
 d   | as in English 'Day'
-
+    |                                       |
 dd  | as above, but longer
-
-f   | as in English 'Far'                    | Beginning of word
-    | as in English 'Very'                   | otherwise
-
+    |                                       |
+f   | as in English 'Far'                   | Beginning of word
+    | as in English 'Very'                  | otherwise
+    |                                       |
 ff  | as 'Far' but long
-
+    |
 g   | as in English 'Goal'
     | as in Scots 'loCH'
     | as in Scots 'loCH' but voiced
-
+    |
 gg  | 'Goal' but long
     | as in Scots 'loCH' (alt English 'aCt') | before s or t
-
+    |
 h   | as in Englsh 'Have'
-
+    |
 j   | as in English 'Year'
-
+    |
 k   | as in English 'Call'
     | same (alt Scots 'loCH')                | before s or t
-
+    |
 kk  | as above, but longer
     | same (alt Scots 'loCH')                | before s or t
-
+    |
 l   | as in English 'Leaf'
-
+    |
 ll  | as above, but longer
-
+    |
 m   | as in English 'home'
-
+    |
 mm  | as above, but longer
-
+    |
 n   | as in English 'siN'
     | as in English 'siNG'                   | before g or k
-
+    |
 nn  | as 'siN' but long
-
+    |
 p   | as in English 'haPPy'
     | same (alt English 'Far')               | before s or t
-
+    |
 pp  | as above, but longer
     | same (alt English 'Far')               | before s or t
-
+    |
 r   | rolled, as in Scottish English
-
+    |
 rr  | as above, but long
-
+    |
 s   | as in English 'thiS'
-
+    |
 ss  | as above, but long
-
+    |
 t   | as in English 'boaT'
-
+    |
 tt  | as above, but long
-
+    |
 v   | as in English 'Win'
-
+    |
 þ   | as in English 'THin'
-
+    |
 ð   | as in English 'THis'
-
+    |
 x   | two sounds, as in Scots loCHS
-
+    |
 z   | two sounds, as in English 'biTS'
-
