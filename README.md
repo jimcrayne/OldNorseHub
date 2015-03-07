@@ -82,7 +82,7 @@ u ᚢ   | [u]  |  as in french bouche            | sumar ‘summer’, [kunna][k
 ý     | [yː] |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y: | _Hy     | y'        
 y ᛦᚣᚤ | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
       |      |                                 |                                         |     |         |           
-æ ᚫ   | [æː] |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
+æ ᛟᚫ  | [æː] |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
       | [ɛː] |  as in English bed, but longer  | alternatively: [/mɛːla/][m], [/nɛːr/][n]|  E: | {       |           
       |      |                                 |                                         |     |         |           
 œ ᛟ   | [øː] |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: | 9       | oe        
