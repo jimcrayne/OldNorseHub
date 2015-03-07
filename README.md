@@ -80,7 +80,7 @@ o ᛟᚬᚩ | [o]  |  as in french eau               | hof /hov/ ‘temple’ [s
 u ᚢ   | [u]  |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u  | u       |           
       |      |                                 |                                         |     |         |           
 ý     | [yː] |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y: | _Hy     | y'        
-y ᛦ ᚣ | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
+y ᛦᚣᚤ | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
       |      |                                 |                                         |     |         |           
 æ ᚫ   | [æː] |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
       | [ɛː] |  as in English bed, but longer  | alternatively: [/mɛːla/][m], [/nɛːr/][n]|  E: | {       |           
@@ -88,7 +88,7 @@ y ᛦ ᚣ | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn]
 œ ᛟ   | [øː] |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: | 9       | oe        
 ø ᛟ   | [ø]  |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  | 9       | o/        
       |      |                                 |                                         |     |         |           
-ǫ ᛟ   | [ɔ]  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  | _co     | o;        
+ǫ ᛟᚭ  | [ɔ]  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  | _co     | o;        
 
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
