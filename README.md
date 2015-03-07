@@ -59,8 +59,8 @@ RULE: p_vLong - vowels marked with the accent mark are elongated versions of the
 
         All runes in this document should be taken with a grain of salt. There is no
         standard runic orthography as far as I am aware. I wanted a runic orthography
-        that is as complete as possible, so it is here actually a mix of younger
-        futhark and medieval scandinavian, and some elder futhark.
+        that is as complete as possible, so it is here actually a mix of elder futhark,
+        younger futhark and danish futhark.
 
 Vowel | [IPA][1]  | Description                | Example word                            | X-Sampa | XSS | [Vim][vim] Digraph 
 ----- | ---- | ------------------------------- | --------------------------------------- | --- | ------- | ------------------
