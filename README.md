@@ -55,34 +55,40 @@ RULE: p_vLong - vowels marked with the accent mark are elongated versions of the
         convenient to use the  IBus x-sampa-ipa input method, even though you are
         typing letters from the Old  Norse Alphabet as opposed to IPA characters.
 
+	Note:
+
+        All runes in this document should be taken with a grain of salt. There is no
+        standard runic orthography as far as I am aware. I wanted a runic orthography
+        that is as complete as possible, so it is here actually a mix of younger
+        futhark and medieval scandinavian, and some elder futhark.
 
 Vowel | [IPA][1]  | Description                | Example word                            | X-Sampa | XSS | [Vim][vim] Digraph 
 ----- | ---- | ------------------------------- | --------------------------------------- | --- | ------- | ------------------
 á     | [aː] |  as in english father           | ár ‘year’, [:sound:ást][ást] 'love'     |  a: |  _Ha    | a'        
-a     | [a]  |  the same sound, but short      | dagr ‘day’, [þat][þat] 'it,that'        |  a  | a       |           
+a ᚨᛅᚪ | [a]  |  the same sound, but short      | dagr ‘day’, [þat][þat] 'it,that'        |  a  | a       |           
       |      |                                 |                                         |     |         |           
 é     | [eː] |  as in french été, but longer   | él ‘storm’, [tré][tré] 'tree'           |  e: | _He     | e'        
-e     | [e]  |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e  | e       |           
+e ᛖ   | [e]  |  as in french été               | ben ‘wound’, [ek][ek] 'I'               |  e  | e       |           
       |      |                                 |                                         |     |         |           
 í     | [iː] |  as in english eat              | lítr ‘looks [vb.]’,[ís][ís] 'ice'       |  i: | _Hi     | i'        
-i     | [i]  |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i  | i       |           
+i ᛁ   | [i]  |  the same sound, but short      | litr ‘colour’,[minn][minn]              |  i  | i       |           
       |      |                                 |                                         |     |         |           
 ó     | [oː] |  as in french eau, but longer   | sól ‘sun’, [dró][dró]'drew'             |  o: | _Ho     | o'        
-o     | [o]  |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o  | o       |           
+o ᛟᚬᚩ | [o]  |  as in french eau               | hof /hov/ ‘temple’ [sofa][sofa] 'sleep' |  o  | o       |           
       |      |                                 |                                         |     |         |           
 ú     | [uː] |  as in french bouche, but longer| hús ‘house’                             |  u: | _Hu     | u'        
-u     | [u]  |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u  | u       |           
+u ᚢ   | [u]  |  as in french bouche            | sumar ‘summer’, [kunna][k1] 'know'      |  u  | u       |           
       |      |                                 |                                         |     |         |           
 ý     | [yː] |  as in french rue, but longer   | kýr ‘cow’, [spýta][spýta] 'spit'        |  y: | _Hy     | y'        
-y     | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
+y ᛦ ᚣ | [y]  |  as in french rue (en:few)      | yfir ‘over’, [kyn][kyn] 'family/kin'    |  y  | y       |           
       |      |                                 |                                         |     |         |           
-æ     | [æː] |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
+æ ᚫ   | [æː] |  as in English pat, but longer  | sær ‘sea’, [mæla][mæla], [nær][nær]     |  {: | {       | ae        
       | [ɛː] |  as in English bed, but longer  | alternatively: [/mɛːla/][m], [/nɛːr/][n]|  E: | {       |           
       |      |                                 |                                         |     |         |           
-œ     | [øː] |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: | 9       | oe        
-ø     | [ø]  |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  | 9       | o/        
+œ ᛟ   | [øː] |  as in French feu, but longer   | œrr 'mad’,  [grœn][grœn] 'green'        |  2: | 9       | oe        
+ø ᛟ   | [ø]  |  as in French feu (en:bird)     | døkkr ‘dark’, [øx][øx] 'axe'            |  2  | 9       | o/        
       |      |                                 |                                         |     |         |           
-ǫ     | [ɔ]  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  | _co     | o;        
+ǫ ᛟ   | [ɔ]  |  as in English hot,thought      |  [ǫl][ǫl] ‘ale’, [hǫll][hǫll] ‘hall’    |  O  | _co     | o;        
 
 
 [1]: http://en.wikipedia.org/wiki/International_Phonetic_Alphabet
@@ -133,9 +139,9 @@ RULE: p_vUnstressed_u - Unstressed u, as in the 'oo' of wood or good
 
 Vowel | IPA | X-Sampa | Description                                | Example word  
 ----- | ----| ------- | ------------------------------------------ | ------------------  
-    a | [a] | a       | same as stressed a                         | leysa ‘(to) release’  
-    i | /̞i/ | _oi     | [:sound:as the y in English 'city'][city]  | máni ‘moon’  
-    u | [ʊ] | U       | [:sound:as in English 'wood'][good]        | eyru ‘ears’  
+ᚨᛅᚪ a | [a] | a       | same as stressed a                         | leysa ‘(to) release’  
+  ᛁ i | /̞i/ | _oi     | [:sound:as the y in English 'city'][city]  | máni ‘moon’  
+  ᚢ u | [ʊ] | U       | [:sound:as in English 'wood'][good]        | eyru ‘ears’  
 
 [city]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/i_as_in_city.mp3
 [good]: https://secure.jerkface.net/~jim/OldNorseHub/sounds/u_as_in_good.mp3
@@ -219,74 +225,74 @@ g ᚴ | gg or ng, before s or t              | [k] |     | [eggs][eggs]
 
 
 consonant | English sound                   | Context
---- | ------------------------------------- | -------------------
-b   | as in English 'Buy'
-    |                                       |
-bb  | as above, but longer
-    |                                       |
-d   | as in English 'Day'
-    |                                       |
-dd  | as above, but longer
-    |                                       |
-f   | as in English 'Far'                   | Beginning of word
-    | as in English 'Very'                  | otherwise
-    |                                       |
-ff  | as 'Far' but long
-    |
-g   | as in English 'Goal'
-    | as in Scots 'loCH'
-    | as in Scots 'loCH' but voiced
-    |
-gg  | 'Goal' but long
-    | as in Scots 'loCH' (alt English 'aCt') | before s or t
-    |
-h   | as in Englsh 'Have'
-    |
-j   | as in English 'Year'
-    |
-k   | as in English 'Call'
-    | same (alt Scots 'loCH')                | before s or t
-    |
-kk  | as above, but longer
-    | same (alt Scots 'loCH')                | before s or t
-    |
-l   | as in English 'Leaf'
-    |
-ll  | as above, but longer
-    |
-m   | as in English 'home'
-    |
-mm  | as above, but longer
-    |
-n   | as in English 'siN'
-    | as in English 'siNG'                   | before g or k
-    |
-nn  | as 'siN' but long
-    |
-p   | as in English 'haPPy'
-    | same (alt English 'Far')               | before s or t
-    |
-pp  | as above, but longer
-    | same (alt English 'Far')               | before s or t
-    |
-r   | rolled, as in Scottish English
-    |
-rr  | as above, but long
-    |
-s   | as in English 'thiS'
-    |
-ss  | as above, but long
-    |
-t   | as in English 'boaT'
-    |
-tt  | as above, but long
-    |
-v   | as in English 'Win'
-    |
-þ   | as in English 'THin'
-    |
-ð   | as in English 'THis'
-    |
-x   | two sounds, as in Scots loCHS
-    |
-z   | two sounds, as in English 'biTS'
+----- | ------------------------------------- | -------------------
+b   ᛒ | as in English 'Buy'
+      |                                       |
+bb    | as above, but longer
+      |                                       |
+d   ᛞ | as in English 'Day'
+      |                                       |
+dd    | as above, but longer
+      |                                       |
+f  ᚠ  | as in English 'Far'                   | Beginning of word
+      | as in English 'Very'                  | otherwise
+      |                                       |
+ff    | as 'Far' but long
+      |
+g ᚷ ᚸ | as in English 'Goal'
+      | as in Scots 'loCH'
+      | as in Scots 'loCH' but voiced
+      |
+gg    | 'Goal' but long
+      | as in Scots 'loCH' (alt English 'aCt') | before s or t
+      |
+h ᚺᚼᚻ | as in Englsh 'Have'
+      |
+j ᛃ ᛄ | as in English 'Year'
+      |
+k ᚲᚴᛣ | as in English 'Call'
+      | same (alt Scots 'loCH')                | before s or t
+      |
+kk    | as above, but longer
+      | same (alt Scots 'loCH')                | before s or t
+      |
+l  ᛚ  | as in English 'Leaf'
+      |
+ll    | as above, but longer
+      |
+m   ᛗ | as in English 'home'
+      |
+mm    | as above, but longer
+      |
+n   ᚾ | as in English 'siN'
+      | as in English 'siNG'                   | before g or k
+      |
+nn    | as 'siN' but long
+      |
+p     | as in English 'haPPy'
+      | same (alt English 'Far')               | before s or t
+      |
+pp    | as above, but longer
+      | same (alt English 'Far')               | before s or t
+      |
+r     | rolled, as in Scottish English
+      |
+rr    | as above, but long
+      |
+s     | as in English 'thiS'
+      |
+ss    | as above, but long
+      |
+t     | as in English 'boaT'
+      |
+tt    | as above, but long
+      |
+v     | as in English 'Win'
+      |
+þ     | as in English 'THin'
+      |
+ð     | as in English 'THis'
+      |
+x     | two sounds, as in Scots loCHS
+      |
+z     | two sounds, as in English 'biTS'
